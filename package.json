@@ -1,0 +1,9 @@
+{
+  "name": "etti-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eastman Technical Training Institute website",
+  "scripts": {
+    "dev": "py -m http.server 8080"
+  }
+}
