@@ -4,6 +4,6 @@
   "private": true,
   "description": "Eastman Technical Training Institute website",
   "scripts": {
-    "dev": "py -m http.server 8080"
+    "dev": "node dev-server.js"
   }
 }
